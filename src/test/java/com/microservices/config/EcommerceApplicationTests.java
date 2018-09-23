@@ -1,4 +1,4 @@
-package com.microservices.Ecommerce;
+package com.microservices.config;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
